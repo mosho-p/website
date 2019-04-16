@@ -1,3 +1,4 @@
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -83,12 +84,12 @@ celerybeat-schedule
 
 # Environments
 .env
-.venv
+.website_env
 env/
-venv/
+website_env/
 ENV/
 env.bak/
-venv.bak/
+website_env.bak/
 
 # Spyder project settings
 .spyderproject
